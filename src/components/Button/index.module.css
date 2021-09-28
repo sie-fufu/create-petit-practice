@@ -1,0 +1,18 @@
+.btn {
+  border-radius: 4px;
+}
+
+.brown {
+  background-color: #8d8282;
+  color: #fff;
+  font-size: medium;
+  width: 300px;
+  height: 45px;
+  max-width: 90%;
+}
+
+.brown:hover {
+  background-color: #968b8b;
+  color: blanchedalmond;
+  cursor: pointer;
+}
