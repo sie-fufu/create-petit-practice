@@ -1,0 +1,24 @@
+.pageTitle {
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  box-sizing: border-box;
+  background-color: #dac7c7;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.loginBtn {
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 20px;
+  box-sizing: border-box;
+  color: #fff;
+  font-size: 2em;
+
+  border-radius: 5px;
+  border-width: 2px;
+}
